@@ -1,2 +1,2 @@
-# Portfolio U+1F916
+# Portfolio 🤖
 My wev development portfolio 
